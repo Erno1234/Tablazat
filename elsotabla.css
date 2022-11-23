@@ -1,0 +1,25 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.elsosor th{
+    border:none;
+    height: 50px;
+    background-color: darkcyan;
+}
+tr{
+    background-color:bisque;
+}
+caption{
+    font-size:x-large;
+    font-weight: bold;
+}
+th, td{
+    border: 1px solid gray;
+}
+.border{
+    border-right: 1px solid gray;
+}
+li a{
+    text-decoration: none;
+}
